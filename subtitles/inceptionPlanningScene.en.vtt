@@ -1,16 +1,16 @@
 WEBVTT
 
 STYLE
-::cue(b){
-    font-style: normal
-    font-weight: bold
-}
-
-STYLE
 ::cue {
   width: 50%;
   color: white;
   padding 10px;
+}
+
+STYLE
+::cue(b){
+    font-style: normal
+    font-weight: bold
 }
 
 STYLE
@@ -36,7 +36,7 @@ STYLE
   color: rgba(0, 212, 123);
 }
 
-00:00:00.130 --> 00:00:03.999 line:90%
+00:00:00.130 --> 00:00:03.999 line:90%, size: 10%
 <c.codd>Codd:</c> Subconscious is motivated by <b>emotion</b> right? Not reason.
 
 00:00:00.000 --> 00:00:02.999 position:90% 

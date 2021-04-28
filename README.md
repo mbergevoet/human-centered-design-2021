@@ -1,14 +1,14 @@
 # Human Centered Design @cmda-minor-web 2021
 
-## Opdracht
+# Opdracht
 
-### Ontwerpen een oplossing voor Darice
+## Ontwerpen een oplossing voor Darice
 
 Voor Darice gaat er enorm veel nuance verloren tijdens het kijken naar een film of een documentaire. Bij veel films worden closed captions aangeboden, maar die zijn zo neutraal als maar kan. Hoe zou je closed captions kunnen ontwerpen zodat alle spanning en sensatie uit het geluid niet verloren gaat?
 
 - [Opdracht - Ontwerpen met en voor echte mensen](course/Opdracht.md)
 
-### Leerdoelen
+## Leerdoelen
 
 - _Leren hoe je (design) principles in een ontwerp kan toepassen._
 - _User needs begrijpen en gebruiken in je ontwerp._

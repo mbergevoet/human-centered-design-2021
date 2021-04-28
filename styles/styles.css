@@ -80,6 +80,10 @@ div img {
 	opacity: 0;
 }
 
+video::-webkit-media-text-track-display {
+	font-size: 60%;
+}
+
 .visible {
 	opacity: 100;
 }
