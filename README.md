@@ -26,7 +26,7 @@ Darice de Cuba is op latere leeftijd doof geworden. Ze werd ziek en gebruikte me
 
 Als oplossing voor het probleem dat Darice heeft heb ik een uitgebreidere ervaring neer gezet met closed captions dan dat nu het geval is.
 
-![foto een]()
+![foto een](https://i.imgur.com/Wp2lcYw.png)
 
 Op de foto hierboven is te zien hoe mijn oplossing er nu uit ziet. Ook kan het zien op de link waar mijn prototype staat. 
 
@@ -38,7 +38,9 @@ Als derde heb ik gelet op de lengte van en de grootte van de captions. Darice ga
 
 Ten vierde heb ik aan de rechterkant van het scherm een apparte plek voor geluids captions gemaakt. Dit is handig voor muziek of een sarcastische toon die iemand kan hebben maar ook voor simpele geluiden die anders verloren zouden gaan in de vertaling naar simpele ondertiteling. Deze staat expres aan de rechter kant omdat Darice in de derde test had aangegeven dat boven aan het scherm niet goed werkt om dat ze anders steeds ophoog en om laag moest kijken wat er voor zorgt dat je dingen kunt missen zowel op het beeld als in de tekst. De geluids captions staan nu rechts omdat voor mij de meest logische plek leek omdat je ogen daar eindigen als je een zin van links naar rechts leest natuurlijk. Ik had nog kunnen testen met links of rechts maar Darice heeft in de derde test niet aangegeven dat ze zich stoorde aan het feit dat het rechts was.
 
-En als vijfde heb ik een equilizer toegevoegd rechts onder in het beeld. In het prototype werkt deze niet met het daadwerkelijk geluid van de video maar dat is wel de bedoeling voor als het echt uitgewerkt zou worden. Maar de reden dat hij er zit is omdat ik samen met de studenten die ook de captions opdracht deden al het idee had om een equilizer uit te proberen omdat het geluid visualiseerd. Vincent heeft dat uiteindelijk als eerste getest en Darice was er heel enthousisast over. Het geeft haar net even dat extra stukje beleving dat ze nu nog mist als ze een film of serie kijkt. Wel wil ze geen gekke ronde equilizer maar een normale, kleine met lijntjes. Daarom heb ik die ook toegevoegd aan mijn prototype.
+Ten vijfde heb ik een equilizer toegevoegd rechts onder in het beeld. In het prototype werkt deze niet met het daadwerkelijk geluid van de video maar dat is wel de bedoeling voor als het echt uitgewerkt zou worden. Maar de reden dat hij er zit is omdat ik samen met de studenten die ook de captions opdracht deden al het idee had om een equilizer uit te proberen omdat het geluid visualiseerd. Vincent heeft dat uiteindelijk als eerste getest en Darice was er heel enthousisast over. Het geeft haar net even dat extra stukje beleving dat ze nu nog mist als ze een film of serie kijkt. Wel wil ze geen gekke ronde equilizer maar een normale, kleine met lijntjes. Daarom heb ik die ook toegevoegd aan mijn prototype.
+
+En als zesde ik heb geprobeerd om sarcasme over de brengen op verschillende manieren. Door tekst een kleur of cursive font te geven in de tests heb ik geprobeerd dat over te brengen. Maar volgens Darice werken die oplossingen niet zo goed. Ze raadde daarom aan om het in de geluids captions te zetten als een scarcastische toon met sterretjes. * Sarcastic tone *.
 
 # Tech achter de captions in het prototype
 
