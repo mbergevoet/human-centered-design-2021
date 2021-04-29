@@ -43,19 +43,20 @@ table {
 }
 
 html {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Jost', sans-serif;
 }
 
 header h1 {
 	font-size: 3em;
 	font-weight: bold;
-	color: var(--red);
+	/* color: var(--red); */
 	margin: 2%;
 }
 
 p {
-	margin: 5%;
+	margin: 2%;
 	font-size: 1.2em;
+	font-family: 'Jost', sans-serif;
 }
 
 div {
@@ -65,6 +66,7 @@ div {
 	background-color: var(--primary);
 	position: relative;
 	z-index: 1;
+	margin: 0 0 5%;
 }
 
 div video {
@@ -81,7 +83,12 @@ div img {
 }
 
 video::-webkit-media-text-track-display {
+	font-family: 'Jost', sans-serif;
 	font-size: 60%;
+}
+
+video::-webkit-media-text-track-display {
+    letter-spacing: 1.5px;
 }
 
 .visible {
