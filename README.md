@@ -22,7 +22,7 @@ Darice de Cuba is op latere leeftijd doof geworden. Ze werd ziek en gebruikte me
 
 [Live prototype](https://mbergevoet.github.io/human-centered-design-2021/)
 
-# Mijn oplossing voor de case
+# Design principles en uitleg van de oplossing
 
 Als oplossing voor het probleem dat Darice heeft heb ik een uitgebreidere ervaring neer gezet met closed captions dan dat nu het geval is.
 
