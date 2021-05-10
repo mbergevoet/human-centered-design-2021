@@ -14,15 +14,33 @@ Voor Darice gaat er enorm veel nuance verloren tijdens het kijken naar een film 
 - _User needs begrijpen en gebruiken in je ontwerp._
 - _Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp._
 
-# Over Darice
-
-Darice de Cuba is op latere leeftijd doof geworden. Ze werd ziek en gebruikte medicijnen die het gehoor aantasten. Ze is nu 39 jaar oud en werd op 26 jarige leeftijd doof. Dit betekend dat ze geen gebarentaal kan maar een schrijftolk(of doventolk) heeft om haar te helpen met het gebrijpen van mensen. Ze is zelf ook ontwerper en developer en weet daarom veel van standaarden en design principles. Dat is wel erg voor mij als CMD student maar toch ook weer lastig juist omdat ze zo goed weet wat ze wil. 
-
 # Prototype
 
 [Live prototype](https://mbergevoet.github.io/human-centered-design-2021/)
 
 # Design principles en uitleg van de oplossing
+
+## Study situation
+
+Het observeren en bestuderen van iemands specifieke situatie. Je kijkt naar hoe diegene op dingen reageerd of hoe er geinteracteerd word met dingen in een ontwerp. Aan de hadn van die obervaties kun je gepersonaliseerder ontwerpen.
+
+## Prioritise identity 
+
+In dit vak maak ik een oplossing voor iemand met een bewerking. Ik test mijn ontwerpen en ideeën en laat Darice mee denken met het ontwerp process waardoor er weer nieuwe ontwerpen en keuze ontstaan die ook weer kunnen worden gezien als conventies voor dove mensen.
+
+## Ignore conventions
+
+Omdat ik conventies geleerd heb binnen dit vakgebied zijn ze ook bedacht door ontwerpers zelf. Maar soms moet je juist de conventies negeren en eerst kijken naar de behoeften van gebruikers. Daarna kun je pas de conveties er op los laten.
+
+## Add nonsense
+
+Door soms onzinnige dingen of nonsense toe te voegen aan ontwerpen kun je komen tot nieuwe inzichten waarvan je nooit geweten had dat ze werkten als je ze niet had uitgeprobeerd. 
+
+## Over Darice
+
+Darice de Cuba is op latere leeftijd doof geworden. Ze werd ziek en gebruikte medicijnen die het gehoor aantasten. Ze is nu 39 jaar oud en werd op 26 jarige leeftijd doof. Dit betekend dat ze geen gebarentaal kan maar een schrijftolk(of doventolk) heeft om haar te helpen met het gebrijpen van mensen. Ze is zelf ook ontwerper en developer en weet daarom veel van standaarden en design principles. Dat is wel erg voor mij als CMD student maar toch ook weer lastig juist omdat ze zo goed weet wat ze wil. 
+
+## De oplossing
 
 Als oplossing voor het probleem dat Darice heeft heb ik een uitgebreidere ervaring neer gezet met closed captions dan dat nu het geval is.
 
